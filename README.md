@@ -1,2 +1,0 @@
-# ShrimpEye
-Robotics Final Assignment
