@@ -9,8 +9,6 @@ judged from how large the object looks in the image.
 
 - **Author:** Ege Berk Yurtkoruyan (student number 4593014)
 - **Course:** Robotics, LIACS, Universiteit Leiden
-- **Demo video:** https://REPLACE-WITH-YOUR-VIDEO-LINK
-- **Report (PDF):** see `ShrimpEye_Technical_Report.pdf` in this repository
 
 ---
 
@@ -55,7 +53,7 @@ without a display, set `SHOW_DEBUG = False` near the top of `ShrimpEye.py`.
 
 ```bash
 # 1. Get the code
-git clone https://REPLACE-WITH-YOUR-CODE-LINK
+git clone https://github.com/EgeBerkYurtkoruyan/ShrimpEye
 cd shrimpeye
 
 # 2. Install Python dependencies
